@@ -1,4 +1,3 @@
-https://images.app.goo.gl/R79Jr71H5q1Tf37MA
 # Octopus
 
 Octopus is game engine based on
