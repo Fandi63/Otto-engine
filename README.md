@@ -8,3 +8,8 @@ It is self imported for begginers
 # Creators
 
 Fanda Peroutka-Fandi63
+
+# Special thanks to:
+
+Python existence😃👍.
+
