@@ -2,11 +2,7 @@ from tkinter import *
 from tkinter.filedialog import asksaveasfilename, askopenfilename
 import subprocess
 import turtle
-x = 0
-def draw_circle_loop():
-    while x == 0:
-        turtle.forward(10)
-        turtle.left(10)
+
         
 import os
 import turtle
@@ -23,7 +19,7 @@ def set_file_path(path):
 
 
 def open_file():
-    path = askopenfilename(filetypes=[('Python Files', '*.py')])
+    path = askopenfilename(filetypes=[('Octopus Engine Files', '*.octe')])
     with open(path, 'r') as file:
         code = file.read()
         editor.delete('1.0', END)
@@ -33,7 +29,7 @@ def open_file():
 
 def save_as():
     if file_path == '':
-        path = asksaveasfilename(filetypes=[('Python Files', '*.py')])
+        path = asksaveasfilename(filetypes=[('Octopus Engine Files', '*.octe')])
     else:
         path = file_path
     with open(path, 'w') as file:
