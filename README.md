@@ -13,3 +13,7 @@ Fanda Peroutka-Fandi63
 
 Python existence😃👍.
 
+# Requirements 
+
+Linux or Windows
+
