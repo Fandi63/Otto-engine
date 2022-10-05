@@ -1,6 +1,16 @@
 from tkinter import *
 from tkinter.filedialog import asksaveasfilename, askopenfilename
 import subprocess
+import turtle
+x = 0
+def draw_circle_loop():
+    while x == 0:
+        turtle.forward(10)
+        turtle.left(10)
+        
+import os
+import turtle
+os.system("cls")
 
 compiler = Tk()
 compiler.title('Octopus Engine')
