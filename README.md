@@ -16,6 +16,7 @@ Python existence😃👍.
 # Requirements 
 
 Linux or Windows
+Python 3.10 
 
 # Builtin Functions:
 
