@@ -4,5 +4,9 @@ def draw_circle_loop():
     while x == 0:
         turtle.forward(10)
         turtle.left(10)
+def corner():
+    forward(10)
+    left(10)
+    forward(10) 
         
     
