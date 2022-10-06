@@ -16,6 +16,7 @@ Python existence😃👍.
 # Requirements 
 
 Linux or Windows
+
 Python 3.10 
 
 # Builtin Functions:
@@ -23,5 +24,6 @@ Python 3.10
 
 draw_circle_loop() (with no arguments)
 
+corner() (with no arguments)
 
 Sorry the compiler is still in development😒.
