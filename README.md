@@ -1,4 +1,4 @@
-# Octopus
+# Octopus Beta
 
 Octopus is game engine based on
 turtle module. 
