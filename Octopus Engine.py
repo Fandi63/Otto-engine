@@ -29,7 +29,7 @@ def open_file():
 
 def save_as():
     if file_path == '':
-        path = asksaveasfilename(filetypes=[('Octopus Engine Files', '*.octe')])
+        path = asksaveasfilename(filetypes=[('Python Files', '*.py')])
     else:
         path = file_path
     with open(path, 'w') as file:
