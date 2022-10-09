@@ -26,4 +26,4 @@ draw_circle_loop() (with no arguments)
 
 corner() (with no arguments)
 
-Sorry the compiler is still in development😒.
+The compiler is working now 😁.
