@@ -28,3 +28,5 @@ corner() (with no arguments)
 
 The compiler is working now 😁.
 But it is writing an annoying errors 😒.
+
+Please report bugs🪳.
