@@ -1,4 +1,4 @@
-# Octopus Beta
+# Otto Engine Beta
 
 Octopus is game engine based on
 turtle module. 
