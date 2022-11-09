@@ -1,6 +1,6 @@
 # Otto Engine Beta
 
-Octopus is game engine based on
+Otto is game engine based on
 turtle module. 
 
 It is self imported for begginers
